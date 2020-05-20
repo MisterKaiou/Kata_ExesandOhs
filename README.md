@@ -1,5 +1,5 @@
 # Kata_ExesandOhs
- Learning repo, character counting using Lynq
+ Learning repo, character counting using Linq
  
  ## Parameters
  
